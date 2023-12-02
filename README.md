@@ -1,2 +1,4 @@
-# course-dev-ops
-NC Course - Dev-Ops
+
+# EXERCISES ANDRES - ITOPS - CLOUD - DEVOPS
+
+    - Exxercises Andres - ITOps - Cloud - Dev-Ops
